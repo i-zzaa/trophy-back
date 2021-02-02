@@ -1,0 +1,2 @@
+class DeathController < ApplicationController
+end

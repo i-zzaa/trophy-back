@@ -1,2 +1,0 @@
-class TrophyController < ApplicationController
-end

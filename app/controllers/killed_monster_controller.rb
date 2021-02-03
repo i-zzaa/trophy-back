@@ -1,2 +1,0 @@
-class KilledMonsterController < ApplicationController
-end

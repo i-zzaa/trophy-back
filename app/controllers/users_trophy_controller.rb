@@ -1,2 +1,0 @@
-class UsersTrophyController < ApplicationController
-end
